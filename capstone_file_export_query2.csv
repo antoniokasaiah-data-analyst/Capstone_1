@@ -1,0 +1,481 @@
+Sales_Territory,Year,Month_Number,Month,Total_Sales
+Colorado,2022,1,January,77950.98
+Colorado,2022,2,February,80315.69
+Colorado,2022,3,March,82516.36
+Colorado,2022,4,April,89350.31
+Colorado,2022,5,May,94892.89
+Colorado,2022,6,June,86847.70
+Colorado,2022,7,July,94048.49
+Colorado,2022,8,August,87058.36
+Colorado,2022,9,September,84206.09
+Colorado,2022,10,October,78706.96
+Colorado,2022,11,November,76920.06
+Colorado,2022,12,December,78541.63
+Colorado,2023,1,January,127097.69
+Colorado,2023,2,February,118165.45
+Colorado,2023,3,March,113336.10
+Colorado,2023,4,April,131835.33
+Colorado,2023,5,May,126201.30
+Colorado,2023,6,June,110745.70
+Colorado,2023,7,July,137070.84
+Colorado,2023,8,August,132936.24
+Colorado,2023,9,September,137022.60
+Colorado,2023,10,October,118913.30
+Colorado,2023,11,November,122127.52
+Colorado,2023,12,December,112438.65
+Colorado,2024,1,January,130507.83
+Colorado,2024,2,February,104570.81
+Colorado,2024,3,March,133808.20
+Colorado,2024,4,April,124228.43
+Colorado,2024,5,May,116437.33
+Colorado,2024,6,June,131379.21
+Colorado,2024,7,July,132936.24
+Colorado,2024,8,August,139385.22
+Colorado,2024,9,September,116550.68
+Colorado,2024,10,October,124204.24
+Colorado,2024,11,November,110361.93
+Colorado,2024,12,December,127097.69
+Colorado,2025,1,January,181006.05
+Colorado,2025,2,February,165726.20
+Colorado,2025,3,March,183144.31
+Colorado,2025,4,April,168853.86
+Colorado,2025,5,May,186318.66
+Colorado,2025,6,June,167246.64
+Colorado,2025,7,July,204640.58
+Colorado,2025,8,August,209591.63
+Colorado,2025,9,September,196114.94
+Colorado,2025,10,October,330762.82
+Colorado,2025,11,November,220240.73
+Colorado,2025,12,December,208271.75
+Connecticut,2022,1,January,29958.25
+Connecticut,2022,2,February,25563.98
+Connecticut,2022,3,March,33995.57
+Connecticut,2022,4,April,31587.12
+Connecticut,2022,5,May,37953.48
+Connecticut,2022,6,June,32008.85
+Connecticut,2022,7,July,30656.27
+Connecticut,2022,8,August,42881.99
+Connecticut,2022,9,September,30369.64
+Connecticut,2022,10,October,43646.37
+Connecticut,2022,11,November,25950.41
+Connecticut,2022,12,December,34680.64
+Connecticut,2023,1,January,38351.45
+Connecticut,2023,2,February,53435.37
+Connecticut,2023,3,March,50828.54
+Connecticut,2023,4,April,45747.20
+Connecticut,2023,5,May,39215.78
+Connecticut,2023,6,June,39754.07
+Connecticut,2023,7,July,49592.69
+Connecticut,2023,8,August,48445.34
+Connecticut,2023,9,September,49175.79
+Connecticut,2023,10,October,45347.65
+Connecticut,2023,11,November,42683.73
+Connecticut,2023,12,December,50446.82
+Connecticut,2024,1,January,57974.76
+Connecticut,2024,2,February,49206.33
+Connecticut,2024,3,March,46044.68
+Connecticut,2024,4,April,38918.30
+Connecticut,2024,5,May,41203.81
+Connecticut,2024,6,June,48142.95
+Connecticut,2024,7,July,48445.34
+Connecticut,2024,8,August,49633.16
+Connecticut,2024,9,September,44890.28
+Connecticut,2024,10,October,43061.44
+Connecticut,2024,11,November,50069.11
+Connecticut,2024,12,December,38351.45
+Connecticut,2025,1,January,68601.89
+Connecticut,2025,2,February,55131.75
+Connecticut,2025,3,March,69261.43
+Connecticut,2025,4,April,58288.72
+Connecticut,2025,5,May,66996.15
+Connecticut,2025,6,June,60671.67
+Connecticut,2025,7,July,88590.03
+Connecticut,2025,8,August,77048.51
+Connecticut,2025,9,September,71032.14
+Connecticut,2025,10,October,115828.46
+Connecticut,2025,11,November,59762.07
+Connecticut,2025,12,December,92791.01
+Florida,2022,1,January,48143.95
+Florida,2022,2,February,46257.35
+Florida,2022,3,March,53541.25
+Florida,2022,4,April,49505.25
+Florida,2022,5,May,58326.64
+Florida,2022,6,June,48683.24
+Florida,2022,7,July,57545.77
+Florida,2022,8,August,48656.98
+Florida,2022,9,September,42839.10
+Florida,2022,10,October,49508.42
+Florida,2022,11,November,44519.86
+Florida,2022,12,December,50885.58
+Florida,2023,1,January,70589.71
+Florida,2023,2,February,74547.62
+Florida,2023,3,March,71490.80
+Florida,2023,4,April,71671.43
+Florida,2023,5,May,76942.62
+Florida,2023,6,June,75958.75
+Florida,2023,7,July,74438.54
+Florida,2023,8,August,71626.47
+Florida,2023,9,September,86388.39
+Florida,2023,10,October,76570.52
+Florida,2023,11,November,81150.82
+Florida,2023,12,December,85799.00
+Florida,2024,1,January,83362.33
+Florida,2024,2,February,65035.27
+Florida,2024,3,March,73851.01
+Florida,2024,4,April,74763.04
+Florida,2024,5,May,78325.77
+Florida,2024,6,June,72071.52
+Florida,2024,7,July,71626.47
+Florida,2024,8,August,90013.08
+Florida,2024,9,September,72945.83
+Florida,2024,10,October,83388.68
+Florida,2024,11,November,83561.14
+Florida,2024,12,December,70589.71
+Florida,2025,1,January,118654.88
+Florida,2025,2,February,105056.57
+Florida,2025,3,March,108664.43
+Florida,2025,4,April,117732.51
+Florida,2025,5,May,125169.68
+Florida,2025,6,June,101328.59
+Florida,2025,7,July,137940.05
+Florida,2025,8,August,129936.53
+Florida,2025,9,September,106935.33
+Florida,2025,10,October,188215.96
+Florida,2025,11,November,133022.84
+Florida,2025,12,December,122408.27
+Maine,2022,1,January,15700.31
+Maine,2022,2,February,21008.29
+Maine,2022,3,March,23173.23
+Maine,2022,4,April,20169.19
+Maine,2022,5,May,22631.11
+Maine,2022,6,June,31573.93
+Maine,2022,7,July,19371.11
+Maine,2022,8,August,27979.07
+Maine,2022,9,September,27393.30
+Maine,2022,10,October,24947.09
+Maine,2022,11,November,19783.08
+Maine,2022,12,December,25345.23
+Maine,2023,1,January,41331.95
+Maine,2023,2,February,37650.30
+Maine,2023,3,March,36162.92
+Maine,2023,4,April,35875.41
+Maine,2023,5,May,26201.22
+Maine,2023,6,June,30183.66
+Maine,2023,7,July,44731.17
+Maine,2023,8,August,42202.08
+Maine,2023,9,September,44862.59
+Maine,2023,10,October,34905.29
+Maine,2023,11,November,35428.88
+Maine,2023,12,December,41279.32
+Maine,2024,1,January,43881.68
+Maine,2024,2,February,31494.48
+Maine,2024,3,March,36311.69
+Maine,2024,4,April,25764.94
+Maine,2024,5,May,31426.20
+Maine,2024,6,June,43488.63
+Maine,2024,7,July,42202.08
+Maine,2024,8,August,46505.54
+Maine,2024,9,September,33262.34
+Maine,2024,10,October,36520.57
+Maine,2024,11,November,40187.63
+Maine,2024,12,December,41331.95
+Maine,2025,1,January,45308.75
+Maine,2025,2,February,51793.28
+Maine,2025,3,March,45762.66
+Maine,2025,4,April,63103.49
+Maine,2025,5,May,46499.27
+Maine,2025,6,June,57053.98
+Maine,2025,7,July,59531.02
+Maine,2025,8,August,61070.43
+Maine,2025,9,September,48485.08
+Maine,2025,10,October,93456.68
+Maine,2025,11,November,57222.33
+Maine,2025,12,December,65695.32
+Maryland,2022,1,January,190064.90
+Maryland,2022,2,February,197529.18
+Maryland,2022,3,March,210228.48
+Maryland,2022,4,April,179004.18
+Maryland,2022,5,May,212028.70
+Maryland,2022,6,June,198318.98
+Maryland,2022,7,July,231208.13
+Maryland,2022,8,August,203503.40
+Maryland,2022,9,September,158952.74
+Maryland,2022,10,October,200423.07
+Maryland,2022,11,November,202365.13
+Maryland,2022,12,December,226340.81
+Maryland,2023,1,January,247207.80
+Maryland,2023,2,February,215146.55
+Maryland,2023,3,March,212397.10
+Maryland,2023,4,April,253354.48
+Maryland,2023,5,May,236271.38
+Maryland,2023,6,June,243603.42
+Maryland,2023,7,July,218664.85
+Maryland,2023,8,August,233256.77
+Maryland,2023,9,September,227638.37
+Maryland,2023,10,October,248095.23
+Maryland,2023,11,November,242019.94
+Maryland,2023,12,December,236037.31
+Maryland,2024,1,January,234650.29
+Maryland,2024,2,February,200891.75
+Maryland,2024,3,March,263664.98
+Maryland,2024,4,April,225960.88
+Maryland,2024,5,May,248901.48
+Maryland,2024,6,June,213366.79
+Maryland,2024,7,July,233256.77
+Maryland,2024,8,August,234863.77
+Maryland,2024,9,September,240869.83
+Maryland,2024,10,October,247456.61
+Maryland,2024,11,November,230600.64
+Maryland,2024,12,December,247207.80
+Maryland,2025,1,January,277874.74
+Maryland,2025,2,February,262318.88
+Maryland,2025,3,March,293722.84
+Maryland,2025,4,April,206982.63
+Maryland,2025,5,May,225774.67
+Maryland,2025,6,June,216983.57
+Maryland,2025,7,July,310327.16
+Maryland,2025,8,August,311949.14
+Maryland,2025,9,September,304304.79
+Maryland,2025,10,October,359699.69
+Maryland,2025,11,November,304194.50
+Maryland,2025,12,December,332129.99
+Massachusetts,2022,1,January,69396.42
+Massachusetts,2022,2,February,65616.00
+Massachusetts,2022,3,March,77390.00
+Massachusetts,2022,4,April,81333.60
+Massachusetts,2022,5,May,75919.64
+Massachusetts,2022,6,June,81227.82
+Massachusetts,2022,7,July,67271.23
+Massachusetts,2022,8,August,73543.48
+Massachusetts,2022,9,September,58716.74
+Massachusetts,2022,10,October,72514.81
+Massachusetts,2022,11,November,70654.73
+Massachusetts,2022,12,December,70025.64
+Massachusetts,2023,1,January,139388.56
+Massachusetts,2023,2,February,104454.67
+Massachusetts,2023,3,March,112443.92
+Massachusetts,2023,4,April,109369.00
+Massachusetts,2023,5,May,109021.42
+Massachusetts,2023,6,June,101710.16
+Massachusetts,2023,7,July,120793.96
+Massachusetts,2023,8,August,126212.14
+Massachusetts,2023,9,September,121968.93
+Massachusetts,2023,10,October,113824.37
+Massachusetts,2023,11,November,105670.08
+Massachusetts,2023,12,December,101641.22
+Massachusetts,2024,1,January,117915.05
+Massachusetts,2024,2,February,103968.70
+Massachusetts,2024,3,March,110968.54
+Massachusetts,2024,4,April,107421.88
+Massachusetts,2024,5,May,106193.39
+Massachusetts,2024,6,June,116310.73
+Massachusetts,2024,7,July,126212.14
+Massachusetts,2024,8,August,123926.20
+Massachusetts,2024,9,September,111867.10
+Massachusetts,2024,10,October,110582.18
+Massachusetts,2024,11,November,96729.12
+Massachusetts,2024,12,December,139388.56
+Massachusetts,2025,1,January,150745.88
+Massachusetts,2025,2,February,140234.24
+Massachusetts,2025,3,March,160846.61
+Massachusetts,2025,4,April,156773.91
+Massachusetts,2025,5,May,157710.74
+Massachusetts,2025,6,June,170305.34
+Massachusetts,2025,7,July,191697.95
+Massachusetts,2025,8,August,174867.46
+Massachusetts,2025,9,September,168503.25
+Massachusetts,2025,10,October,277382.19
+Massachusetts,2025,11,November,196108.93
+Massachusetts,2025,12,December,186487.64
+"New Jersey",2022,1,January,70597.51
+"New Jersey",2022,2,February,63225.69
+"New Jersey",2022,3,March,64779.71
+"New Jersey",2022,4,April,78465.40
+"New Jersey",2022,5,May,73037.02
+"New Jersey",2022,6,June,66868.55
+"New Jersey",2022,7,July,72096.47
+"New Jersey",2022,8,August,73904.91
+"New Jersey",2022,9,September,77869.16
+"New Jersey",2022,10,October,83610.78
+"New Jersey",2022,11,November,70526.89
+"New Jersey",2022,12,December,84464.75
+"New Jersey",2023,1,January,115439.64
+"New Jersey",2023,2,February,91815.52
+"New Jersey",2023,3,March,101529.42
+"New Jersey",2023,4,April,94095.22
+"New Jersey",2023,5,May,93011.83
+"New Jersey",2023,6,June,88203.90
+"New Jersey",2023,7,July,98822.98
+"New Jersey",2023,8,August,107203.90
+"New Jersey",2023,9,September,95680.79
+"New Jersey",2023,10,October,108715.83
+"New Jersey",2023,11,November,106648.71
+"New Jersey",2023,12,December,111495.71
+"New Jersey",2024,1,January,99272.17
+"New Jersey",2024,2,February,96699.78
+"New Jersey",2024,3,March,95231.21
+"New Jersey",2024,4,April,91875.84
+"New Jersey",2024,5,May,89476.87
+"New Jersey",2024,6,June,97550.01
+"New Jersey",2024,7,July,107203.90
+"New Jersey",2024,8,August,98470.41
+"New Jersey",2024,9,September,105926.21
+"New Jersey",2024,10,October,110232.92
+"New Jersey",2024,11,November,107911.50
+"New Jersey",2024,12,December,115439.64
+"New Jersey",2025,1,January,148558.26
+"New Jersey",2025,2,February,131102.08
+"New Jersey",2025,3,March,138083.24
+"New Jersey",2025,4,April,138626.24
+"New Jersey",2025,5,May,133865.16
+"New Jersey",2025,6,June,144521.48
+"New Jersey",2025,7,July,149097.10
+"New Jersey",2025,8,August,151923.99
+"New Jersey",2025,9,September,163449.78
+"New Jersey",2025,10,October,250830.46
+"New Jersey",2025,11,November,146953.33
+"New Jersey",2025,12,December,170994.00
+"New York",2022,1,January,58635.53
+"New York",2022,2,February,60262.97
+"New York",2022,3,March,57143.40
+"New York",2022,4,April,56880.02
+"New York",2022,5,May,51805.22
+"New York",2022,6,June,60549.86
+"New York",2022,7,July,56250.74
+"New York",2022,8,August,55052.53
+"New York",2022,9,September,60495.63
+"New York",2022,10,October,56896.98
+"New York",2022,11,November,58402.69
+"New York",2022,12,December,55006.46
+"New York",2023,1,January,85210.01
+"New York",2023,2,February,86906.65
+"New York",2023,3,March,79964.16
+"New York",2023,4,April,97173.99
+"New York",2023,5,May,101370.73
+"New York",2023,6,June,83465.90
+"New York",2023,7,July,90818.80
+"New York",2023,8,August,89422.22
+"New York",2023,9,September,89196.88
+"New York",2023,10,October,85095.72
+"New York",2023,11,November,79627.33
+"New York",2023,12,December,75904.66
+"New York",2024,1,January,94306.43
+"New York",2024,2,February,75083.70
+"New York",2024,3,March,99439.50
+"New York",2024,4,April,99105.22
+"New York",2024,5,May,87328.99
+"New York",2024,6,June,86955.71
+"New York",2024,7,July,89422.22
+"New York",2024,8,August,91189.41
+"New York",2024,9,September,83103.19
+"New York",2024,10,October,80543.34
+"New York",2024,11,November,74988.65
+"New York",2024,12,December,85210.01
+"New York",2025,1,January,135193.89
+"New York",2025,2,February,104990.83
+"New York",2025,3,March,119415.68
+"New York",2025,4,April,117652.02
+"New York",2025,5,May,119352.07
+"New York",2025,6,June,135192.03
+"New York",2025,7,July,126976.23
+"New York",2025,8,August,133776.60
+"New York",2025,9,September,119597.00
+"New York",2025,10,October,185241.67
+"New York",2025,11,November,126941.06
+"New York",2025,12,December,128272.56
+"South Carolina",2022,1,January,9640.38
+"South Carolina",2022,2,February,9763.98
+"South Carolina",2022,3,March,8366.63
+"South Carolina",2022,4,April,8929.63
+"South Carolina",2022,5,May,5396.03
+"South Carolina",2022,6,June,7196.23
+"South Carolina",2022,7,July,13083.78
+"South Carolina",2022,8,August,8916.43
+"South Carolina",2022,9,September,8155.79
+"South Carolina",2022,10,October,10330.27
+"South Carolina",2022,11,November,8355.29
+"South Carolina",2022,12,December,8360.87
+"South Carolina",2023,1,January,13558.82
+"South Carolina",2023,2,February,14067.77
+"South Carolina",2023,3,March,13635.31
+"South Carolina",2023,4,April,9587.55
+"South Carolina",2023,5,May,10674.71
+"South Carolina",2023,6,June,9332.28
+"South Carolina",2023,7,July,10441.57
+"South Carolina",2023,8,August,12616.78
+"South Carolina",2023,9,September,10502.52
+"South Carolina",2023,10,October,18688.18
+"South Carolina",2023,11,November,10414.83
+"South Carolina",2023,12,December,12742.44
+"South Carolina",2024,1,January,15392.13
+"South Carolina",2024,2,February,13574.66
+"South Carolina",2024,3,March,9646.93
+"South Carolina",2024,4,April,10615.33
+"South Carolina",2024,5,May,9641.91
+"South Carolina",2024,6,June,10131.94
+"South Carolina",2024,7,July,12616.78
+"South Carolina",2024,8,August,10524.22
+"South Carolina",2024,9,September,18666.48
+"South Carolina",2024,10,October,10622.68
+"South Carolina",2024,11,November,12534.59
+"South Carolina",2024,12,December,13558.82
+"South Carolina",2025,1,January,20427.40
+"South Carolina",2025,2,February,16483.87
+"South Carolina",2025,3,March,19779.93
+"South Carolina",2025,4,April,19849.82
+"South Carolina",2025,5,May,15173.90
+"South Carolina",2025,6,June,15465.18
+"South Carolina",2025,7,July,21980.16
+"South Carolina",2025,8,August,34374.68
+"South Carolina",2025,9,September,16497.17
+"South Carolina",2025,10,October,27491.79
+"South Carolina",2025,11,November,18497.16
+"South Carolina",2025,12,December,22506.96
+Texas,2022,1,January,40857.20
+Texas,2022,2,February,52729.22
+Texas,2022,3,March,49214.95
+Texas,2022,4,April,55229.25
+Texas,2022,5,May,49696.98
+Texas,2022,6,June,45208.26
+Texas,2022,7,July,48308.66
+Texas,2022,8,August,49641.33
+Texas,2022,9,September,47977.04
+Texas,2022,10,October,50543.10
+Texas,2022,11,November,41402.48
+Texas,2022,12,December,49055.84
+Texas,2023,1,January,72298.63
+Texas,2023,2,February,45399.37
+Texas,2023,3,March,67468.76
+Texas,2023,4,April,76712.34
+Texas,2023,5,May,74059.48
+Texas,2023,6,June,68340.04
+Texas,2023,7,July,63941.07
+Texas,2023,8,August,60700.57
+Texas,2023,9,September,69674.13
+Texas,2023,10,October,64725.08
+Texas,2023,11,November,65553.06
+Texas,2023,12,December,78994.26
+Texas,2024,1,January,49824.16
+Texas,2024,2,February,64549.05
+Texas,2024,3,March,80723.94
+Texas,2024,4,April,70047.88
+Texas,2024,5,May,70733.08
+Texas,2024,6,June,61548.03
+Texas,2024,7,July,60700.57
+Texas,2024,8,August,71514.05
+Texas,2024,9,September,62885.16
+Texas,2024,10,October,70341.95
+Texas,2024,11,November,74205.37
+Texas,2024,12,December,72298.63
+Texas,2025,1,January,101046.12
+Texas,2025,2,February,95007.06
+Texas,2025,3,March,101490.54
+Texas,2025,4,April,81348.63
+Texas,2025,5,May,85801.23
+Texas,2025,6,June,87182.86
+Texas,2025,7,July,91246.68
+Texas,2025,8,August,98630.93
+Texas,2025,9,September,109065.94
+Texas,2025,10,October,168955.72
+Texas,2025,11,November,105400.74
+Texas,2025,12,December,95570.59

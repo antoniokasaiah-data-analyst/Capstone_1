@@ -58,39 +58,32 @@ GROUP BY
  ============================================================ */
 
 SELECT 
-	REGION AS Region,
-	Year,
-    Month,
-    Total_Sales 
-FROM(SELECT 
-	   t3.region AS Region,
-	   YEAR(transaction_date) AS Year,
-       DATE_FORMAT(transaction_date, '%M') AS Month,
-       MONTH(transaction_date) AS MONTH1,
-       SUM(SALE_AMOUNT) AS Total_Sales    
+    t2.state AS Sales_Territory,
+    YEAR(t1.transaction_date) AS Year,
+    MONTH(t1.transaction_date) AS Month_Number,
+    DATE_FORMAT(t1.transaction_date, '%M') AS Month,
+    SUM(t1.sale_amount) AS Total_Sales
 FROM store_sales AS t1
-JOIN store_locations AS t2 ON t1.store_id = t2.storeid
-JOIN management AS t3 ON t2.state =t3.state
+JOIN store_locations AS t2 
+    ON t1.store_id = t2.storeid
 GROUP BY 
-	t3.region, 
-    YEAR(transaction_date),
-	DATE_FORMAT(transaction_date, '%M'),
-	MONTH(transaction_date)
+    t2.state,
+    YEAR(t1.transaction_date),
+    MONTH(t1.transaction_date),
+    DATE_FORMAT(t1.transaction_date, '%M')
 ORDER BY 
-	MONTH ASC) AS e1
-ORDER BY 
-	Year ASC,
-    Month1 ASC;
-
+    t2.state,
+    Year,
+    Month_Number;
 /* ============================================================
  Question 2 Analysis
- Revenue rises throughout the year, peaking in October with$4,500,000 in 
- revenue and remaining strong through December with $3,970,000 in revenue, 
- while early months like February with $3,400,000 in revenue show the lowest performance.
- This indicates strong seasonality, with demand concentrated in Q4 and a noticeable 
- slowdown after the holiday period.
- EmporiUM should scale operations ahead of Q4 to maximize revenue and use 
- promotions early in the year to offset slower sales periods.
+ This analysis calculates total monthly revenue for each sales territory (state), 
+ showing how sales fluctuate over time—for example, a territory generating $120,000 in January 
+ and increasing to $150,000 in March.
+ This reveals seasonal trends and performance differences across territories, helping identify which 
+ locations experience growth, decline, or consistent sales patterns.
+ The business can use these insights to plan inventory, adjust marketing strategies during high- and 
+ low-performing months, and allocate resources to maximize revenue in the next quarter.
  ============================================================ */
 
 /* ============================================================
@@ -166,7 +159,8 @@ GROUP BY
     t4.state,
     t3.category,
     Year,
-    Month_Num
+    Month_Num,
+    Month
 ORDER BY 
 	t4.state,
     t3.category,
